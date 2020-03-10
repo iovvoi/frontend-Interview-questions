@@ -3,6 +3,7 @@
 
 ## 项目结构
 
+``` code
 |-
   |- css
   |- experience 经验
@@ -19,3 +20,4 @@
   |- node
   |- react
   |- vue
+```
